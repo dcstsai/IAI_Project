@@ -46,8 +46,8 @@ All datasets, including the ones we preprocessed, are available at: https://driv
 - DGL: Link Prediction Using Graph Neural Networks https://docs.dgl.ai/en/0.8.x/tutorials/blitz/4_link_predict.html
 - Application of Machine Learning to Link Prediction https://cs229.stanford.edu/proj2016/report/JulianLu-Application-of-Machine-Learning-to-Link-Prediction-report.pdf
 - Collaborative Filtering - Recommendation system through ML https://developers.google.com/machine-learning/recommendation/collaborative/basics
-- Recommendation system design https://www.itransition.com/machine-learning/recommendation-systems#:~:text=Recommendation%20engines%20in%20this%20category,survey%20customers'%20perceptions%20of%20products.
-- Prediction on co-purchasing on the same dataset (Logistic regression, KNN, Decision Tree, Adaboost etc). https://cseweb.ucsd.edu/classes/sp15/cse190-c/reports/sp15/039.pdf
+- Recommendation system design https://www.itransition.com/machine-learning/recommendation-systems#:~:text=Recommendation%20engines%20in%20this%20category,survey%20customers'%20perceptions%20of%20products
+- Prediction on co-purchasing on the same dataset (Logistic regression, KNN, Decision Tree, Adaboost etc) https://cseweb.ucsd.edu/classes/sp15/cse190-c/reports/sp15/039.pdf
 - Matrix Factorization Techniques for Recommender Systems https://ieeexplore.ieee.org/document/5197422
 - Collaborative Filtering for Implicit Feedback Datasets https://ieeexplore.ieee.org/document/4781121
 - Fast Matrix Factorization for Online Recommendation with Implicit Feedback https://arxiv.org/abs/1708.05024
