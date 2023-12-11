@@ -25,3 +25,6 @@ We use the following datasets for this project:
 - https://snap.stanford.edu/data/amazon0601.html
 2. Amazon product co-purchasing network metadata, including title, salesrank, etc.
 - https://snap.stanford.edu/data/amazon-meta.html
+
+All datasets, including the ones we preprocessed, are available at: https://drive.google.com/drive/folders/1upHgc2Mli8AeIidkWyZ8vGL46W3P7B8q?usp=sharing
+
