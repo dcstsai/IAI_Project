@@ -29,7 +29,7 @@ We use the following datasets for this project:
 All datasets, including the ones we preprocessed, are available at: https://drive.google.com/drive/folders/1upHgc2Mli8AeIidkWyZ8vGL46W3P7B8q?usp=sharing
 
 
-**References**
+**V. References**
 - Introduction to GNN https://distill.pub/2021/gnn-intro/
 - PyG - a library built upon PyTorch to train GNNs https://pyg.org/
 - Recommender systems with GNNs https://medium.com/stanford-cs224w/recommender-systems-with-gnns-in-pyg-d8301178e377
